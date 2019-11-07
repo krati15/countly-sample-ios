@@ -39,3 +39,6 @@ after you cloned this repository to get the latest Countly iOS SDK.
 5. Push token will automatically be sent to Countly server. From this point forward, you will be able to send a push notification to that device. 
 
 6. You can also send events, sample crashes, sample user profiles, and many more.
+
+
+
