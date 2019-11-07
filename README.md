@@ -41,4 +41,3 @@ after you cloned this repository to get the latest Countly iOS SDK.
 6. You can also send events, sample crashes, sample user profiles, and many more.
 
 
-
